@@ -1,2 +1,3 @@
 # Projetos-python
- Primeiros exercicíos em Python
+ Primeiros exercicíos em Python.
+ :)
